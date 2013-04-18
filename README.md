@@ -18,7 +18,7 @@ Agenda
 
 Kyles Presentation
 -----------------
-* [slides](http://talks.gokyle.org/denver.gophers/March28.slide)
+* [slides](http://talks.gokyle.org/denver.gophers/2013/symmetric.slide)
 * [marchat](https://github.com/gokyle/marchat) - chat program demo
 
 
